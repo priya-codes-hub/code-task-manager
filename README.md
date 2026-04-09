@@ -16,7 +16,7 @@ A simple task management web application built using React.
 - HTML & CSS
 
 ## Screenshots for Proof
-(Will be added soon)
+![App Screenshot](screenshot.png)
 
 ## Purpose of every important code
 This project is created for learning and practicing frontend development.
